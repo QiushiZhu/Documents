@@ -1,0 +1,15 @@
+1.《海岛奇兵》数值解析   2015-06-25
+https://wenku.baidu.com/view/a6395722d1f34693dbef3e65
+
+2.《点杀泰坦》数值解析  2016-06-11
+https://wenku.baidu.com/view/d93d2fc7650e52ea54189852
+
+3.兰切斯特方程在非连续情况下的修正 2017-04-21
+https://zhuanlan.zhihu.com/p/26486542 
+
+4.LoL排位生态研究 2019-01-28
+https://bbs.nga.cn/read.php?tid=16265450
+
+5.崩坏3_3.8数据分析及打点文档.xlsx 2020-03-04
+https://github.com/QiushiZhu/Documents/blob/master/%E5%B4%A9%E5%9D%8F3_3.8%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%89%93%E7%82%B9%E6%96%87%E6%A1%A3.xlsx
+
